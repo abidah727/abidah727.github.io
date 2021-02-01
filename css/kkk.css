@@ -1,0 +1,103 @@
+body {
+    color: #666666;
+    background-color: #f9f8f9;
+    background-image: url(v.jpg);
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.4cm;
+    margin: 0px
+}
+.a{
+    width: 940px;
+    margin:20px auto 20px auto;
+    border:2px solid #000000;
+    background-color: #ffffff;
+}
+.b{
+    background: aqua;
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+}
+header{
+    height: 160px;
+    text-align: center;
+    font-size: 20px;
+}
+h1{
+    text-indent: -9999px;
+    width: 940px;
+    height: 130px;
+    margin: 0px;
+}
+nav, footer{
+    clear: both;
+    color: #ffffff;
+    background-color: #acaca8;
+    height: 50px;
+}
+nav ul{
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+nav li{
+    display: inline;
+    margin-right: 40px;
+}
+nav li a{
+    color: #ffffff;
+}
+nav li a:hover nav li a.c{
+    color: #000000;
+}
+section .d{
+   float: left;
+   width: 659px;
+   border-right: 1px solid #eeeeee
+}
+article{
+    clear: both;
+    overflow: auto;
+    width: 100%;
+}
+hgroup{
+    margin-top: 40px;
+}
+figure{
+    float: left;
+    width: 280px;
+    height: 230px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #eeeeee;
+}
+figcaption{
+    font-size: 90%;
+    text-align: center;
+}
+aside{
+    width: 230px;
+    float: left;
+    padding: 0px 0px 0px 20px;
+}
+aside section a {
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid #eeeeee ;
+}
+a{
+    color: #0a0909;
+    text-decoration: none;
+}
+footer {
+	clear: both;
+	width: 98%;
+	height: auto;
+	text-align: center;
+	margin: 5px 5px 5px 5px;
+	border-radius: 5px;
+	border-bottom: 1px solid gainsboro;
+	padding-top: 15px;
+    padding-bottom: 15px;
+}
