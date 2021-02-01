@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(51, 150, 189);
+}
+
+
+
+/* Form bagian */
+.bagian-form {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.1);
+}
+
+.form {
+    padding: 30px;
+}
